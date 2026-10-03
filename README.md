@@ -56,10 +56,33 @@ Confidentiality, Integrity, and Availability.
 
 ### Deliverable
 Report of CIA Triad Analysis with 5 Real life example 
+# Task 3 – Cyber Threat Identification
 
-## Conclusion
+## Objective
+To identify common cybersecurity threats and understand their targets, impacts, and prevention methods.
 
-Cybersecurity helps protect information, systems, networks, and
-users from unauthorized access, attacks, damage, and data loss.
-Understanding basic cybersecurity concepts is important for both
+## Threats Covered
+- Phishing
+- Malware
+- Ransomware
+- Social Engineering
+- Credential Theft
+
+## Work Completed
+Created a Threat Classification Table covering:
+- Threat
+- Target
+- Impact
+- Prevention
+
+Also answered basic interview questions related to cybersecurity threats.
+
+## Tools Used
+- Google Docs
+- Web Browser
+
+## Outcome
+Gained basic knowledge of common cybersecurity threats and their prevention methods.
+
+ybersecurity concepts is important for both
 individuals and organizations.
