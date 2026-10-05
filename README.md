@@ -148,3 +148,86 @@ A user enters a password and then enters an OTP received on their mobile phone.
 ## Conclusion
 
 This task helped in understanding the importance of strong password security. Using long and unique passwords, password managers, and Multi-Factor Authentication can improve account security and reduce the risk of unauthorized access.
+# Task 5 – Multi-Factor Authentication (MFA)
+
+## 📌 Task Overview
+
+This task focuses on **Multi-Factor Authentication (MFA)** and how it improves account security by using multiple authentication factors.
+
+## 🎯 Objective
+
+To understand Multi-Factor Authentication and compare different authentication factors used to verify a user's identity.
+
+## 🛠️ Tools Used
+
+- Web Browser
+- Google Docs
+
+## 📚 Topics Covered
+
+- Introduction to Authentication
+- Multi-Factor Authentication (MFA)
+- Authentication Factors
+- Knowledge Factor
+- Possession Factor
+- Inherence Factor
+- MFA Comparison
+- Real-World Example
+
+## 🔐 Authentication Factors
+### 1. Something You Know
+Examples:
+- Password
+- PIN
+- Passphrase
+### 2. Something You Have
+Examples:
+- Mobile Phone
+- OTP Device
+- Security Key
+- Smart Card
+
+### 3. Something You Are
+Examples:
+- Fingerprint
+- Face Recognition
+- Iris Scan
+
+## 🔑 Example of MFA
+
+**Password + OTP**
+
+- Password → Something You Know
+- OTP through a trusted device → Something You Have
+
+Using two different authentication factors provides stronger protection than using a password alone.
+
+## 📊 MFA Comparison
+
+| Factor | Meaning | Examples |
+|---|---|---|
+| Knowledge | Something the user knows | Password, PIN |
+| Possession | Something the user has | Phone, Security Key |
+| Inherence | Something the user is | Fingerprint, Face Recognition |
+
+## ❓ Interview Questions
+
+### 1. What is MFA?
+MFA is a security method that requires two or more different authentication factors to verify a user's identity.
+
+### 2. What are authentication factors?
+The three main authentication factors are:
+- Something you know
+- Something you have
+- Something you are
+
+### 3. Is OTP alone MFA?
+No. OTP alone is one authentication factor. It becomes MFA when combined with a different factor, such as a password.
+
+## 📄 Deliverable
+**MFA Comparison Report**
+
+The complete report contains the research and comparison of authentication factors and explains how MFA improves account security.
+
+
+
