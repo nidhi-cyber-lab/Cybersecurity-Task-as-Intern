@@ -230,5 +230,64 @@ No. OTP alone is one authentication factor. It becomes MFA when combined with a 
 
 The complete report contains the research and comparison of authentication factors and explains how MFA improves account security.
 
+# Task 6 – Social Engineering Awareness (6 Oct 2026)
+
+## 📌 Overview
+
+This task focuses on understanding **Social Engineering Awareness** and how attackers manipulate human behavior to obtain sensitive information or gain unauthorized access.
+
+The task covers common social engineering techniques, warning signs, and methods to protect users from such attacks.
+
+## 🎯 Objectives
+
+- Understand the concept of social engineering.
+- Identify common social engineering techniques.
+- Recognize warning signs of social engineering attacks.
+- Understand how attackers exploit human behavior.
+- Learn effective prevention and security awareness practices.
+
+## 🔐 Topics Covered
+
+- Phishing
+- Impersonation
+- Pretexting
+- Baiting
+- Quid Pro Quo
+- Tailgating
+- Warning Signs
+- Prevention Techniques
+- Security Awareness Checklist
+
+## ⚠️ Common Warning Signs
+
+- Urgent or threatening messages
+- Requests for passwords or OTPs
+- Suspicious links or attachments
+- Unknown or unverified individuals
+- Unusual payment requests
+- Fake offers or rewards
+- Requests to bypass security procedures
+
+## 🛡️ Prevention Measures
+
+- Never share passwords or OTPs.
+- Verify the identity of the sender or caller.
+- Avoid clicking suspicious links.
+- Do not open unexpected attachments.
+- Use strong and unique passwords.
+- Enable Multi-Factor Authentication (MFA).
+- Do not connect unknown USB devices.
+- Verify urgent requests through trusted channels.
+- Report suspicious activities to the IT/security team.
+
+## 📄 Deliverable
+
+**Social Engineering Awareness Guide**
+
+The completed guide explains common social engineering scenarios, warning signs, and prevention techniques.
+
+## 📚 Conclusion
+
+Social engineering attacks exploit human trust, fear, curiosity, and urgency. Awareness and proper verification can help reduce the risk of becoming a victim of such attacks.
 
 
