@@ -1,4 +1,4 @@
-## Task 1 -Introduction to cybersecurity
+## Task 1 -Introduction to cybersecurity (1 Oct 2026)
 # Introduction-to-Cybersecurity
 Introduction to cybersecurity, CIA triad, importance of cybersecurity, and common cyber threats.
 
@@ -35,7 +35,7 @@ individuals and organizations.
 - Google Docs
 - Web Browser
 
- ## Task 2 – CIA Triad Analysis
+ ## Task 2 – CIA Triad Analysis (2 Oct 2026)
 
 ### Objective
 To understand the three core principles of information security:
@@ -56,7 +56,8 @@ Confidentiality, Integrity, and Availability.
 
 ### Deliverable
 Report of CIA Triad Analysis with 5 Real life example 
-# Task 3 – Cyber Threat Identification
+
+# Task 3 – Cyber Threat Identification( 3 Oct 2026)
 
 ## Objective
 To identify common cybersecurity threats and understand their targets, impacts, and prevention methods.
@@ -87,7 +88,7 @@ Gained basic knowledge of common cybersecurity threats and their prevention meth
 ybersecurity concepts is important for both
 individuals and organizations.
 
-# Task 4 – Password Security Analysis
+# Task 4 – Password Security Analysis (4 Oct 2026)
 
 ## Objective
 
@@ -148,7 +149,7 @@ A user enters a password and then enters an OTP received on their mobile phone.
 ## Conclusion
 
 This task helped in understanding the importance of strong password security. Using long and unique passwords, password managers, and Multi-Factor Authentication can improve account security and reduce the risk of unauthorized access.
-# Task 5 – Multi-Factor Authentication (MFA)
+# Task 5 – Multi-Factor Authentication (MFA) (5 Oct 2026)
 
 ## 📌 Task Overview
 
