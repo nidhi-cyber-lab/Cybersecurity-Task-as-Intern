@@ -290,7 +290,7 @@ The completed guide explains common social engineering scenarios, warning signs,
 
 Social engineering attacks exploit human trust, fear, curiosity, and urgency. Awareness and proper verification can help reduce the risk of becoming a victim of such attacks.
 
-#Task 8: Malware Fundamentals (8 Oct 2026)
+## Task 8: Malware Fundamentals (8 Oct 2026)
 
 ## Overview
 This task focuses on understanding malware classification and the major types of malware.
