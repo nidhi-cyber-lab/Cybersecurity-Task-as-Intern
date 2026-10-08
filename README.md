@@ -290,4 +290,29 @@ The completed guide explains common social engineering scenarios, warning signs,
 
 Social engineering attacks exploit human trust, fear, curiosity, and urgency. Awareness and proper verification can help reduce the risk of becoming a victim of such attacks.
 
+#Task 8: Malware Fundamentals (8 Oct 2026)
+
+## Overview
+This task focuses on understanding malware classification and the major types of malware.
+
+## Objective
+To study major malware categories and understand their typical effects.
+
+## Malware Types Covered
+
+| Malware | Description | Typical Effects |
+|---|---|---|
+| Virus | Attaches to files or programs and spreads when executed. | File corruption and system damage |
+| Worm | Self-replicates and spreads automatically through networks. | Rapid spreading and resource consumption |
+| Trojan | Pretends to be legitimate software. | Data theft and unauthorized access |
+| Spyware | Secretly monitors activities and collects information. | Privacy and information theft |
+| Ransomware | Encrypts or blocks access to data. | Data loss and financial damage |
+
+## Conclusion
+Understanding different malware types helps identify cybersecurity threats and apply appropriate security measures.
+
+## Tools Used
+- Browser
+- Google Docs
+
 
