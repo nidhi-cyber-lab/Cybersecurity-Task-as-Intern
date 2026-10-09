@@ -314,5 +314,41 @@ Understanding different malware types helps identify cybersecurity threats and a
 ## Tools Used
 - Browser
 - Google Docs
+# Task 9: Ransomware Awareness (9 Oct 2026)
+
+## Overview
+
+This task focuses on understanding ransomware attacks at a conceptual level and identifying defensive security controls.
+
+## Objective
+
+To understand ransomware risks and learn how to prevent ransomware attacks.
+
+## Key Topics
+
+* Ransomware and its impact
+* Ransomware attack lifecycle
+* Backup and recovery
+* Security patching
+* Multi-Factor Authentication (MFA)
+* Principle of Least Privilege
+* Security monitoring
+
+## Ransomware Prevention Checklist
+
+* Back up important data regularly.
+* Keep backups offline or isolated.
+* Update operating systems and applications.
+* Enable MFA on important accounts.
+* Use strong, unique passwords.
+* Apply least privilege.
+* Use updated endpoint protection.
+* Avoid suspicious links and attachments.
+* Monitor unusual account and file activity.
+* Follow an incident response plan.
+
+## Conclusion
+
+Ransomware risks can be reduced through layered security controls, regular backups, timely updates, MFA, least privilege, and security awareness.
 
 
