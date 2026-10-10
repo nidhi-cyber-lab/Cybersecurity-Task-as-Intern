@@ -290,6 +290,79 @@ The completed guide explains common social engineering scenarios, warning signs,
 
 Social engineering attacks exploit human trust, fear, curiosity, and urgency. Awareness and proper verification can help reduce the risk of becoming a victim of such attacks.
 
+## Task-7 Phishing Email Analysis – Phishing Indicator Checklist (7 Oct 2026)
+
+## 1. Introduction
+Phishing is a cyberattack in which attackers use fake emails or messages to trick people into sharing sensitive information, clicking malicious links, or downloading harmful attachments.
+
+## 2. Objective
+To learn how to identify common phishing indicators and understand basic email security practices.
+
+## 3. Phishing Indicators
+
+| No. | Indicator | Description |
+|---|---|---|
+| 1 | Sender Address | Check whether the sender's email address is genuine. |
+| 2 | Display Name | Verify that the display name matches the sender's address. |
+| 3 | Suspicious Links | Be cautious of links leading to unknown or fake websites. |
+| 4 | Urgent Language | Watch for messages that pressure you to act immediately. |
+| 5 | Attachments | Avoid opening unexpected or suspicious attachments. |
+| 6 | Spelling and Grammar | Look for unusual spelling or grammar mistakes. |
+| 7 | Personal Information Requests | Never share passwords, OTPs, or banking details through suspicious emails. |
+| 8 | Fake Login Pages | Verify the website before entering login credentials. |
+| 9 | Shortened URLs | Check shortened links carefully because their destination may be hidden. |
+| 10 | Unexpected Emails | Verify unexpected messages through official channels. |
+
+## 4. Phishing Detection Checklist
+
+- [ ] Verify the sender's email address.
+- [ ] Inspect links before opening them.
+- [ ] Look for urgent or threatening language.
+- [ ] Check unexpected attachments.
+- [ ] Review spelling and grammar.
+- [ ] Identify requests for sensitive information.
+- [ ] Verify website domains.
+- [ ] Report suspicious emails through the appropriate channel.
+
+## 5. Safety Measures
+
+- Never share passwords or OTPs through email.
+- Avoid clicking suspicious links.
+- Use multi-factor authentication (MFA).
+- Keep software and security tools updated.
+- Verify unexpected requests with the sender through a trusted channel.
+- Report suspected phishing emails.
+
+## 6. Interview Questions
+
+**Q1. How do you identify a phishing email?**
+
+Check the sender's address, links, attachments, urgent language, and requests for sensitive information.
+
+**Q2. What is spear phishing?**
+
+Spear phishing is a targeted phishing attack aimed at a specific person or organization.
+
+**Q3. Why are shortened links risky?**
+
+They can hide the destination website, making it harder to identify suspicious links.
+
+## 7. Conclusion
+
+This task helped me understand common phishing indicators and basic methods for recognizing suspicious emails. Checking email details carefully can help reduce the risk of phishing attacks.
+
+## 8. Skills Learned
+
+- Phishing awareness
+- Email security
+- Suspicious link identification
+- Basic threat detection
+- Cybersecurity best practices
+
+**Task:** Phishing Email Analysis  
+**Track:** Cyber Security  
+**Organization:** VEDA Technology
+
 ## Task 8: Malware Fundamentals (8 Oct 2026)
 
 ## Overview
@@ -350,5 +423,44 @@ To understand ransomware risks and learn how to prevent ransomware attacks.
 ## Conclusion
 
 Ransomware risks can be reduced through layered security controls, regular backups, timely updates, MFA, least privilege, and security awareness.
+
+# Task 10: Security Policies (10 Oct 2026)
+
+## Overview
+This task focuses on creating a basic cybersecurity policy for a small organization. The policy establishes security rules to protect devices, accounts, emails, and organizational information.
+
+## Objective
+To understand organizational security controls and the importance of cybersecurity policies.
+
+## Topics Covered
+- Password and account security
+- Device security
+- Email and phishing safety
+- Data protection and backups
+- Access control and least privilege
+- Security incident reporting
+- Responsible internet usage
+- Policy review
+
+## Key Security Recommendations
+1. Use strong, unique passwords and enable MFA.
+2. Keep devices and software updated.
+3. Avoid suspicious links and email attachments.
+4. Restrict access to authorized users.
+5. Back up important information.
+6. Report suspected security incidents immediately.
+
+## Interview Questions
+**1. What is a security policy?**  
+A security policy defines rules for protecting an organization's systems and information.
+
+**2. Why are security policies important?**  
+They reduce security risks, establish responsibilities, and help protect sensitive data.
+
+## Deliverable
+A basic cybersecurity policy designed for a small organization.
+
+## Conclusion
+This task demonstrates how simple organizational rules can improve cybersecurity awareness and reduce common security risks.
 
 
