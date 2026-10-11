@@ -463,4 +463,37 @@ A basic cybersecurity policy designed for a small organization.
 ## Conclusion
 This task demonstrates how simple organizational rules can improve cybersecurity awareness and reduce common security risks.
 
+## Task 11: Networking Fundamentals (11 Oct 2026)
+
+## Objective
+To understand the fundamentals of networking, including IP addresses, MAC addresses, ports, protocols, and network devices.
+
+## Topics Covered
+- IP addresses: IPv4, IPv6, public and private IPs
+- MAC addresses and local network communication
+- Common network ports and services
+- TCP, UDP, HTTP, HTTPS, DNS, DHCP, SSH, and ARP
+- Network devices: routers, switches, modems, and firewalls
+- Basic network communication
+- Network security best practices
+
+## Tools
+- Web Browser
+- Cisco Packet Tracer
+
+## Key Learnings
+1. An IP address provides logical network addressing.
+2. A MAC address supports link-layer communication on a local network.
+3. Ports help direct traffic to the correct application or service.
+4. Protocols define how network devices communicate.
+5. Routers, switches, and firewalls perform different networking and security functions.
+6. Network security involves monitoring traffic, securing services, and preventing unauthorized access.
+
+## Practical Learning
+Cisco Packet Tracer can be used to simulate a small network containing PCs, switches, and routers. Connectivity can be tested in the simulation environment.
+
+## Conclusion
+This task provided a foundation in networking concepts essential for cybersecurity, network troubleshooting, and understanding network security risks.
+
+
 
