@@ -494,6 +494,39 @@ Cisco Packet Tracer can be used to simulate a small network containing PCs, swit
 
 ## Conclusion
 This task provided a foundation in networking concepts essential for cybersecurity, network troubleshooting, and understanding network security risks.
+## Task 12: OSI Model ( 12 Oct 2026 )
+
+## Overview
+This task explains the seven layers of the Open Systems Interconnection (OSI) model and maps common network protocols to their respective layers.
+
+## Objective
+To understand network communication architecture and learn how HTTP, TCP, IP, and Ethernet relate to the OSI model.
+
+## Topics Covered
+- Seven layers of the OSI model
+- Functions of each layer
+- Common network protocols
+- Protocol-to-layer mapping
+- Importance of the OSI model in cybersecurity
+
+## Tools Used
+- Web Browser
+- Google Docs
+
+## Key Learnings
+1. The OSI model has seven layers.
+2. IP operates at the Network layer (Layer 3).
+3. TCP and UDP operate at the Transport layer (Layer 4).
+4. HTTP and HTTPS operate at the Application layer (Layer 7).
+5. Ethernet is mainly associated with the Data Link layer (Layer 2).
+
+## Deliverable
+An OSI layer chart showing the seven layers, their functions, and common protocol examples.
+
+## Conclusion
+This task improved my understanding of network communication and strengthened my networking fundamentals for cybersecurity.
+
+
 
 
 
