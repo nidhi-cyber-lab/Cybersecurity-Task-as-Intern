@@ -526,7 +526,44 @@ An OSI layer chart showing the seven layers, their functions, and common protoco
 ## Conclusion
 This task improved my understanding of network communication and strengthened my networking fundamentals for cybersecurity.
 
+# Task 13: TCP and UDP Comparison  (13 Oct 2026)
 
+## Objective
+To compare TCP and UDP communication and understand their appropriate use cases.
+
+## Introduction
+TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are transport-layer protocols used for network communication.
+
+## TCP
+- Connection-oriented protocol.
+- Provides reliable and ordered data delivery.
+- Uses acknowledgements and retransmission.
+- Commonly used for web connections, email, file transfer, and SSH.
+
+## UDP
+- Connectionless protocol.
+- Has lower protocol overhead.
+- Does not guarantee delivery or ordering by itself.
+- Commonly used for online gaming, real-time voice/video, and DNS queries.
+
+## Key Differences
+- TCP focuses on reliable data delivery.
+- UDP focuses on low-overhead communication.
+- TCP establishes a connection before transferring data.
+- UDP sends datagrams without establishing a connection.
+
+## Tools Used
+- Wireshark
+- Web Browser
+
+## Key Learnings
+1. TCP and UDP operate at the transport layer.
+2. TCP provides reliable, ordered delivery.
+3. UDP is useful for time-sensitive applications.
+4. The appropriate protocol depends on the application's requirements.
+
+## Conclusion
+This task improved my understanding of TCP and UDP, their differences, and their importance in network communication and cybersecurity.
 
 
 
