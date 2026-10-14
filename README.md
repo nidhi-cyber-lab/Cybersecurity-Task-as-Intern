@@ -565,5 +565,44 @@ TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are transpo
 ## Conclusion
 This task improved my understanding of TCP and UDP, their differences, and their importance in network communication and cybersecurity.
 
+# Task 14: Common Network Ports (14 Oct 2026)
+
+## Overview
+This project is part of my Cybersecurity Internship at Veda Technology. It provides a reference sheet of commonly used network ports, protocols, and services.
+
+## Objective
+To understand common network services and identify their associated port numbers.
+
+## Topics Covered
+- FTP — Ports 20 and 21
+- SSH — Port 22
+- SMTP — Ports 25 and 587
+- DNS — Port 53
+- HTTP — Port 80
+- HTTPS — Port 443
+- SMB — Port 445
+- IMAP — Port 143
+- RDP — Port 3389
+
+## Tools Used
+- Web browser
+- Google Sheets
+
+## Key Learnings
+- Understood the purpose of common network ports.
+- Learned the difference between HTTP and HTTPS.
+- Understood how DNS resolves domain names.
+- Learned how SSH supports secure remote access.
+- Identified security practices for managing network services.
+
+## Deliverable
+A Common Network Ports Reference Sheet.
+
+## Conclusion
+This task improved my basic understanding of network communication and common services used in cybersecurity.
+
+## References
+- IANA Port Registry: https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
+- RFC Editor: https://www.rfc-editor.org/
 
 
