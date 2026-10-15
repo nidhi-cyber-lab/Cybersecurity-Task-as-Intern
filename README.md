@@ -605,4 +605,42 @@ This task improved my basic understanding of network communication and common se
 - IANA Port Registry: https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
 - RFC Editor: https://www.rfc-editor.org/
 
+# Task 15: DNS Security Basics (15 Oct 2026)
+
+## Overview
+This task focuses on understanding how the Domain Name System (DNS) works and identifying common DNS security risks.
+
+## Objective
+To understand DNS resolution and learn about basic DNS security threats and protection methods.
+
+## Topics Covered
+- What is DNS?
+- How DNS resolution works
+- DNS spoofing and cache poisoning
+- DNS hijacking
+- DNS tunneling
+- DNSSEC (DNS Security Extensions)
+
+## Tools Used
+- Web Browser
+- Google Docs
+
+## Key Learnings
+- DNS translates domain names into IP addresses.
+- DNS spoofing can redirect users to incorrect or malicious destinations.
+- DNSSEC helps verify the authenticity and integrity of DNS data.
+- Secure DNS configuration and monitoring help reduce security risks.
+
+## Security Recommendations
+- Keep DNS software and devices updated.
+- Use trusted DNS resolvers.
+- Enable DNSSEC validation where supported.
+- Protect administrator accounts with strong passwords and multi-factor authentication.
+- Monitor unusual DNS activity.
+
+## Deliverable
+DNS Security Basics Report.
+
+## Conclusion
+This task improved my understanding of DNS resolution, common DNS security risks, and basic methods for protecting DNS services.
 
